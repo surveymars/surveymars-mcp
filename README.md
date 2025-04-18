@@ -12,6 +12,7 @@
 </div>
 
 # SurveyMars MCP Server
+[![smithery badge](https://smithery.ai/badge/@surveymars/surveymars-mcp)](https://smithery.ai/server/@surveymars/surveymars-mcp)
 
 **At <a href="https://surveymars.com">SurveyMars</a>** our mission is to make it easy for our users to gather insights quickly and effortlessly through our powerful and completely free survey platform. With unlimited surveys, questions, responses, and advanced analytics tools, you can create, distribute, and analyze surveys in minutes, without any technical expertise or budget.
 
