@@ -1,8 +1,13 @@
 [project]
 name = "surveymars-mcp"
-version = "0.1.0"
+version = "0.1.1"
 description = "SurveyMars MCP server"
 readme = "README.md"
+keywords = [
+    "SurveyMars",
+    "mcp",
+    "Survey",
+]
 requires-python = ">=3.11"
 dependencies = [ "mcp>=1.6.0",]
 

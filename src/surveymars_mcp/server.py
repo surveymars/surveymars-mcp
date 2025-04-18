@@ -91,7 +91,7 @@ async def handle_list_tools() -> list[types.Tool]:
     return [
         types.Tool(
             name="survey_create",
-            description="""Create a survey with SurveyMars: With this AI-powered survey generator, you can enter essential details like target audience, brand, and research objectives, and I will produce a personalized questionnaire for you. The more specific your input, the more precise the questionnaire content will be.""",
+            description="""Create survey with SurveyMars, Returns a set of links to the generated survey. With this AI-powered survey generator, you can enter essential details like target audience, brand, and research objectives, and I will produce a personalized questionnaire for you. The more specific your input, the more precise the questionnaire content will be.""",
             inputSchema={
                 "type": "object",
                 "properties": {
@@ -181,7 +181,7 @@ async def run_server():
             write_stream,
             InitializationOptions(
                 server_name="surveymars-mcp",
-                server_version="0.1.0",
+                server_version="0.1.1",
                 capabilities=server.get_capabilities(
                     notification_options=NotificationOptions(),
                     experimental_capabilities={},

@@ -54,7 +54,7 @@ If you're using Windows, you will have to enable "Developer Mode" in Claude Desk
 
 Try asking Claude:
 
-- "Help me create a German language questionnaire for a hotel satisfaction survey"
+- "Help me create a questionnaire for a hotel satisfaction survey"
 - "Create a vehicle purchase journey survey to gather valuable insights from customers at every stage of their journey, from their initial research and showroom visit, to their final purchase decision and post-sale satisfaction."
 
 ## Development

@@ -5,7 +5,7 @@ import asyncio
 from dotenv import load_dotenv
 from . import server
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 # log config
 # logging.basicConfig(
