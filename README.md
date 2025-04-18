@@ -1,3 +1,16 @@
+<div class="title-block" style="text-align: center;" align="center">
+
+  [![SurveyMars](/assets/images/surveymars.jpg)](https://surveymars.com/)
+
+  [![App Store](assets/images/apple-logo-transparent.png)](https://apps.apple.com/us/app/surveymars/id1301153578)
+  [![Google Play](https://static.surveymars.com/static/assets/images/social-media/googleplay.png)](https://play.google.com/store/apps/details?id=com.surveypluto.app&amp;pli=1)&emsp;&emsp;
+  [![Facebook](https://static.surveymars.com/static/assets/images/social-media/facebook-fill.png)](https://www.facebook.com/profile.php?id=61575183117455)
+  [![Twitter](https://static.surveymars.com/static/assets/images/social-media/Twitter-fill.png)](https://x.com/surveymars)
+  [![Instagram](https://static.surveymars.com/static/assets/images/social-media/instagram-fill.png)](https://www.instagram.com/surveymars_/)
+  [![Youtube](https://static.surveymars.com/static/assets/images/social-media/youtube-fill.png)](https://www.youtube.com/@SurveyMars)
+  
+</div>
+
 # SurveyMars MCP Server
 
 **At <a href="https://surveymars.com">SurveyMars</a>** our mission is to make it easy for our users to gather insights quickly and effortlessly through our powerful and completely free survey platform. With unlimited surveys, questions, responses, and advanced analytics tools, you can create, distribute, and analyze surveys in minutes, without any technical expertise or budget.
